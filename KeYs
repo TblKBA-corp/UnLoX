@@ -9,11 +9,7 @@ vless://SlikVPN_3413058@72.56.83.229:443?type=tcp&security=reality&fp=random&pbk
 
 
 
-vless://35d9d601-ed3e-402c-a062-878604de7bf4@news.rodosnews.ru:443?flow=xtls-rprx-vision&fp=random&pbk=spNh8KPw9EBt7Wr3NDVkp3EC10ShvYQEYCc-7OWjOCc&security=reality&sid=3c084982d2450d12&sni=sub.news.rodosnews.ru&spx=%2FZuUwe3iyoitLROg&type=tcp
-#🇫🇷 Париж/Франция | prot. TCP  
-vless://8a485786-a702-4b3e-abe3-aa3e4e4e8e85@news.rodosnews.ru:443?host=news.rodosnews.ru&path=%2F56050%2Ftg1T1dVLkt&security=tls&type=ws
-#🇫🇷 Париж/Франция | prot. WS  (vladlink ok)
-vless://9328e367-c762-4b4b-bc20-4a00006462c1@news.rodosnews.ru:443?host=&mode=packet-up&path=%2FuXILZIIA21&security=tls&type=xhttp
-#🇫🇷 Париж/Франция | prot. xhttp  (vladlink ok)
-trojan://xnsVDQkjL1@news.rodosnews.ru:443?authority=news.rodosnews.ru&security=tls&serviceName=%2F50724%2F3yv0VDdHoY&type=grpc
-#🇫🇷 Париж/Франция | prot. Trojan  (vladlink no)
+vless://35d9d601-ed3e-402c-a062-878604de7bf4@news.rodosnews.ru:443?flow=xtls-rprx-vision&fp=random&pbk=spNh8KPw9EBt7Wr3NDVkp3EC10ShvYQEYCc-7OWjOCc&security=reality&sid=3c084982d2450d12&sni=sub.news.rodosnews.ru&spx=%2FZuUwe3iyoitLROg&type=tcp#🇫🇷 Париж/Франция | prot. TCP  
+vless://8a485786-a702-4b3e-abe3-aa3e4e4e8e85@news.rodosnews.ru:443?host=news.rodosnews.ru&path=%2F56050%2Ftg1T1dVLkt&security=tls&type=ws	#🇫🇷 Париж/Франция | prot. WS		(vladlink ok)
+vless://9328e367-c762-4b4b-bc20-4a00006462c1@news.rodosnews.ru:443?host=&mode=packet-up&path=%2FuXILZIIA21&security=tls&type=xhttp			#🇫🇷 Париж/Франция | prot. xhttp	(vladlink ok)
+trojan://xnsVDQkjL1@news.rodosnews.ru:443?authority=news.rodosnews.ru&security=tls&serviceName=%2F50724%2F3yv0VDdHoY&type=grpc				#🇫🇷 Париж/Франция | prot. Trojan	(vladlink no)
