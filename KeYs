@@ -6,6 +6,7 @@
 
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@lv89.mechvpn.online:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇫🇷 Париж/Франция | prot. tcp		(vladlink ✔) ws+tg(pc+mobile(hot))✔️ | фарпост ✔️ (mobile(apk) ❌ | youtube ✔
 
+vless://6038d5a7-3ed9-4298-a927-d7fb0a298522@89.149.240.41:8443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&extra=%7Bmode%3Dstream-up%2C%20xmux%3D%7BcMaxReuseTimes%3D96-192%2C%20maxConcurrency%3D8-16%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D400-600%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scStreamUpServerSecs%3D20-40%7D&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&fp=chrome&type=xhttp&sni=www.amd.com&sid=b94d6f23e8a10c75#🇳🇱 Netherland | Нидерланды (remiuc) (альянс ✔) ws+tg(pc)✔️ | фарпост ❌| youtube ✔
 
 vless://SlikVPN_3413058@72.56.83.229:443?type=tcp&security=reality&fp=random&pbk=LAsaEBQhHy9ob1oUsDlCZbbGZOfA6iwuOBkEuYt842M&sni=apple.com&sid=ffffffffff&spx=%2F#🇳🇱Амстердам/Нидерланды Турбо | (vladlink ok) #sl54
 #10-30 Mb Sec SlikVPN 
