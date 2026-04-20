@@ -1,8 +1,21 @@
-#profile-title: 🎃 ВажНая СборКа 🎃
-#support-url: doesn't exist
-#profile-update-interval: 3
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: ⚠️ данные ключи были дешифрованы(и сперты) у madvpn по идее ключи перестанут работать 25.04.2026 но мб работать будут и далее т.к. принцип по которому ключ перестает работать был в удалении инфы о ключе. по идее так же сняты лимиты по количеству устройств
+#Profile-Title: MadVPN
+#Account: tg_5283812101
+#Subscription-Userinfo: upload: unlimited | download: 0 | total: unlimited | expire: 25.04.2026
+#Update-Interval: 1h
+#Content-Type: application/json; charset=utf-8
+#Support-Url: https://t.me/madvpnbbot
+#Announce: Наш телеграм бот @madvpnbbot (LTE) - локации для обхода блокировок мобильного интернета находятся внизу списка. Если не работает - переключайтесь между серверами.
+#Fragmentation-Enable: 1
+#Hide-Settings: true
+#Profile-Web-Page-Url: https://sub.madvpn.cc/spZcrWNqt4-LU--m
+#Providerid: gpaIq0UT
+#Sub-Expire: 1
+#Sub-Expire-Button-Link: https://t.me/madvpnbbot
+#Subscription-Always-Hwid-Enable: true
+#Subscriptions-Collapse: false
+
+
+
 
 
 vless://42a35bc6-35c4-489c-b03f-9e24bb661439@84.32.217.221:8443?encryption=none&flow=&type=xhttp&security=reality&sni=www.tradingview.com&fp=chrome&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=c4a1e83b6f27d590#🇸🇪%20Sweden
