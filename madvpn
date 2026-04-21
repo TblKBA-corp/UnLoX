@@ -403,7 +403,7 @@
             }
         ]
     }
-};
+},
 {
     "dns": {
         "disableCache": false,
