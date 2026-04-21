@@ -13,7 +13,7 @@
 #Sub-Expire-Button-Link: https://t.me/madvpnbbot
 #Subscription-Always-Hwid-Enable: true
 #Subscriptions-Collapse: false
-
+[
 {
     "dns": {
         "disableCache": false,
@@ -794,3 +794,4 @@
         ]
     }
 }
+]
