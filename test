@@ -1,0 +1,13 @@
+#profile-title: 🎃 ВажНая СборКа 2 🎃
+#support-url: doesn't exist
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#announce: ⚠️⚠️Категорически⚠️⚠️ Запрещено передавать ключи кому либо⚠️ В случае не работающих ключей пишем лично, номер ключа указан над каждым, и указываем под каким оператором наблюдается проблемма. Некоторые ключи не работают на мобильной сети (указывайте оператора)
+
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#starlink vpn:
+vless://eefd4ce8-283a-446b-954a-ba8144128660@snl10.linkey10.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=aygwCszpnD7CNkUW-_r5k1Hcmw5QAZlQbmLevevhnz4&sid=#🇳🇱 Нидерланды
+vless://eefd4ce8-283a-446b-954a-ba8144128660@ger42.linkey44.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=g7YxiOJoS3OiCBT-t1hpd__88_ZzKEALjZZK1PYuz3o&sid=#🇩🇪 Германия
+vless://eefd4ce8-283a-446b-954a-ba8144128660@185.219.84.151:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=JyOAyE57dfDPGdsOz9BTPdBOKbQ9bhtZw50IzbRVZy0&sid=#🇩🇪 Германия #2
+vless://eefd4ce8-283a-446b-954a-ba8144128660@s-rus1.linkey42.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=ttsVoUC92pflcL2ePK8Ne_qzC2UZvxstL7VPlfK4l28&sid=#🇷🇺 Россия | YouTube без рекламы
+vless://eefd4ce8-283a-446b-954a-ba8144128660@159.194.211.122:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=ghnvDO1BmayV77sODWUQBcvFEAQ_yCpv8wltCUeJZmQ&fp=qq#🇰🇿 Казахстан
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@159.194.211.122:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=ghnvDO1BmayV77sODWUQBcvFEAQ_yCpv8wltCUeJZmQ&fp=qq#🇰🇿 Казахстан
