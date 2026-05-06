@@ -4,6 +4,39 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #announce: ⚠️⚠️Категорически⚠️⚠️ Запрещено передавать ключи кому либо⚠️ В случае не работающих ключей пишем лично, номер ключа указан над каждым, и указываем под каким оператором наблюдается проблемма. Некоторые ключи не работают на мобильной сети (указывайте оператора)
 
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#starlink vpn:
+vless://eefd4ce8-283a-446b-954a-ba8144128660@snl10.linkey10.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=aygwCszpnD7CNkUW-_r5k1Hcmw5QAZlQbmLevevhnz4&sid=#🇳🇱 Нидерланды
+vless://eefd4ce8-283a-446b-954a-ba8144128660@ger42.linkey44.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=g7YxiOJoS3OiCBT-t1hpd__88_ZzKEALjZZK1PYuz3o&sid=#🇩🇪 Германия
+vless://eefd4ce8-283a-446b-954a-ba8144128660@185.219.84.151:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=JyOAyE57dfDPGdsOz9BTPdBOKbQ9bhtZw50IzbRVZy0&sid=#🇩🇪 Германия #2
+vless://eefd4ce8-283a-446b-954a-ba8144128660@s-rus1.linkey42.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=ttsVoUC92pflcL2ePK8Ne_qzC2UZvxstL7VPlfK4l28&sid=#🇷🇺 Россия | YouTube без рекламы
+vless://eefd4ce8-283a-446b-954a-ba8144128660@159.194.211.122:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=ghnvDO1BmayV77sODWUQBcvFEAQ_yCpv8wltCUeJZmQ&fp=qq#🇰🇿 Казахстан
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@159.194.211.122:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=ghnvDO1BmayV77sODWUQBcvFEAQ_yCpv8wltCUeJZmQ&fp=qq#🇰🇿 Казахстан
+
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#xray vpn до 9:
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@5.42.126.170:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇪🇺  Умный режим Россия - Европа
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@5.42.126.170:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 Россия
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@95.85.229.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dzen.ru&pbk=-PAgmFwuckH82I5dhgKXv40g-guHYrCZoVYL_Bwru2A&fp=chrome#🇵🇱 Польша
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@45.156.20.132:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome#🇱🇻 Латвия
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@64.188.124.119:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome#🇩🇪 Германия 1
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@2.27.9.175:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome# 🇩🇪 Германия 2
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@64.188.124.119:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome#🇩🇪 Германия 4K
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@194.246.114.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇨🇳 Китай 1
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@194.246.114.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dzen.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇨🇳 Китай 2
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@159.194.217.111:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dzen.ru&pbk=SaImbTlBTEGJOdghqZ6dNg3TY3WfnlvP8PgewUeokgE&fp=chrome#🇫🇷 Франция
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@154.83.208.117:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome#🇳🇱 Нидерланды
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@51.250.23.225:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome# 🇷🇺  #1  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@158.160.250.94:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dzen.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome# 🇷🇺   #2  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@89.169.169.219:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome# 🇷🇺   #3  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@51.250.23.225:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 __#1.1  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@51.250.23.225:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dzen.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺__ #1.2  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@51.250.23.225:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 __#1.3  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@158.160.250.94:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 __ #2.1  Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@158.160.250.94:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 __#2.2 Моб. Связь Обход глушилок
+vless://74bf92b3-18c4-44dd-8579-94bc7a97e6dc@158.160.250.94:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome#🇷🇺 __#2.3  Моб. Связь Обход глушилок
+
+
+
+
 vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#vless vpn до 12:
 vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@ger37.linkey28.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=SRJ5NYChE8xzEdGNvvj5Btfo6lqk18KMT93kXI-FpVg&fp=qq#🇩🇪 Германия
 vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@ger36.linkey23.ru:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=8V3A-uQ0Za0GjmcP19rwO3QDsF97mLmTLqNAxHaX6CE&sid=#🇩🇪 Германия
@@ -47,3 +80,28 @@ vless://8a485786-a702-4b3e-abe3-aa3e4e4e8e85@news.rodosnews.ru:443?host=news.rod
 vless://9328e367-c762-4b4b-bc20-4a00006462c1@news.rodosnews.ru:443?host=&mode=packet-up&path=%2FuXILZIIA21&security=tls&type=xhttp			#🇫🇷 Париж/Франция | prot. xhttp	(vladlink ✔️) #as03
 trojan://xnsVDQkjL1@news.rodosnews.ru:443?authority=news.rodosnews.ru&security=tls&serviceName=%2F50724%2F3yv0VDdHoY&type=grpc				#🇫🇷 Париж/Франция | prot. Trojan	(vladlink ❌) #as04
 #10-50 Mb Sec  aksakruslan
+
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#magproxy бессрочно 10gB:
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-001.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=4c8c071a.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=367c1715f4fe426f&fp=chrome#🇩🇪 Германия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-002.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=4c8c071a.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=7aa09db4b1e1d981&fp=chrome#🇩🇪 Германия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=4c8c071a.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0830ce5a7240c57b&fp=chrome#🇩🇪 Германия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=4c8c071a.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇩🇪 Германия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-001.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=41d8d694.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0830ce5a7240c57b&fp=chrome#🇷🇺 Россия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-002.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=41d8d694.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇷🇺 Россия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=41d8d694.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇷🇺 Россия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=41d8d694.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇷🇺 Россия | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-001.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=8c9629cc.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=eed5068f4e342367&fp=chrome#🇳🇱 Нидерланды | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-002.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=8c9629cc.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0bf9b41dd2e2b7e3&fp=chrome#🇳🇱 Нидерланды | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=8c9629cc.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=eed5068f4e342367&fp=chrome#🇳🇱 Нидерланды | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=8c9629cc.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=eed5068f4e342367&fp=chrome#🇳🇱 Нидерланды | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-001.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b871d57e.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0bf9b41dd2e2b7e3&fp=chrome#🇨🇭 Швейцария | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-002.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b871d57e.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=87148e29ba09978b&fp=chrome#🇨🇭 Швейцария | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b871d57e.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0bf9b41dd2e2b7e3&fp=chrome#🇨🇭 Швейцария | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b871d57e.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=eed5068f4e342367&fp=chrome#🇨🇭 Швейцария | Smart
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-001.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=9f5986cf.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇦🇹 Австрия
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ed7fd509.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=2dacaee1a6eba211&fp=chrome#🇫🇮 Финляндия
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-003.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ba20d344.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=2dacaee1a6eba211&fp=chrome#🇺🇸 США
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-002.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=1658b1ff.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=7aa09db4b1e1d981&fp=chrome#🇸🇪 Швеция
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b871d57e.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=367c1715f4fe426f&fp=chrome#🇨🇭 ⚪️ Швейцария | Трафик x3 | Б.Cписки
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=9f5986cf.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=c2d6f2f62951f9a7&fp=chrome#🇦🇹 ⚪️ Австрия | Трафик x3 | Б.Cписки
+vless://c1739e6a-0f5b-4fcd-80e3-517ab9475078@balancer-wh.servers.magproxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=4c8c071a.push.vk.com&pbk=U3YWdjEcyOBdmqADNEnKN-PKeD5Qb2qA-CnR4rO-JGs&sid=0bf9b41dd2e2b7e3&fp=chrome#🇩🇪 ⚪️ Германия | Трафик x3 | Б.Cписки
