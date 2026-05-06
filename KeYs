@@ -4,6 +4,35 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #announce: ⚠️⚠️Категорически⚠️⚠️ Запрещено передавать ключи кому либо⚠️ В случае не работающих ключей пишем лично, номер ключа указан над каждым, и указываем под каким оператором наблюдается проблемма. Некоторые ключи не работают на мобильной сети (указывайте оператора)
 
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#vless vpn до 12:
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@ger37.linkey28.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=SRJ5NYChE8xzEdGNvvj5Btfo6lqk18KMT93kXI-FpVg&fp=qq#🇩🇪 Германия
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@ger36.linkey23.ru:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=8V3A-uQ0Za0GjmcP19rwO3QDsF97mLmTLqNAxHaX6CE&sid=#🇩🇪 Германия
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@45.157.234.107:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=XqqjfrZ7P7ZzkdyziqdsXYcJoryjr_ujeHo4joSv3G0&fp=qq#🇩🇪 Германия #2
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@45.157.234.107:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ozon.ru&fp=qq&pbk=XqqjfrZ7P7ZzkdyziqdsXYcJoryjr_ujeHo4joSv3G0&sid=#🇩🇪 Германия #2
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@s3.nodu4.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=Jt9xeYfqodJXgNCkUoQ76GjEHhXJveCNd_5mvnEeyhI&fp=qq#🇳🇱 Нидерланды
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@nl24.linkey29.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=_FVPq_TUsVzeA0_vPNjq4S8K6Qrfsr9yXeMateuI5XY&sid=#🇳🇱 Нидерланды
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@finl1.linkey37.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=DgmQrFNdf-abLQKoL3jEsL3Kvw9s7s3gm-6lRVj6hlw&fp=edge#🇫🇮 Финляндия #2
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@finl3.linkey40.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=hbz2h-uZbBKkiPKeSzxgbU_cg82IxHklArWTVis3DC0&sid=#🇫🇮 Финляндия #2
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@rus5.linkey40.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=EgDxD4eDUH8o7ZMNn9NCcYhU2ZHjY0v89r3jYagtf0w&fp=qq#🇷🇺 Россия | YouTube без рекламы
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@rus7.linkey43.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=y8wvbl8Di04JJne3gBNQhq-upAYTgvs9CSHC5X_Z7Vs&sid=#🇷🇺 Россия | YouTube без рекламы
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@5.42.104.142:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=tQE0V4nHI6Nm5-X8Ras--rJpmzMU9IgYZUZbf5JsTRE&fp=qq#🇺🇸 USA | Gemini, Veo3
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@5.42.104.142:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=tQE0V4nHI6Nm5-X8Ras--rJpmzMU9IgYZUZbf5JsTRE&sid=#🇺🇸 USA | Gemini, Veo3
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@mostger2.linkey41.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=5hrZPU1wxHgBNQ1FiHfOhRNJulzL_wvAklsTN6wXiS8&fp=qq#🇩🇪 Германия #3
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@ger39.linkey38.ru:443?encryption=none&type=xhttp&security=reality&sni=www.vk.com&pbk=WzY6_TbWME4O5x4Ny-X5_N7Hio4ouoVs3FQsQEKXYg4&fp=qq&path=/#🇩🇪  Германия XHTTP #4
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@s1.nodu10.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=TTqkOFxY5de8wuJ8qu9ibe0cA-cbEiP--Pr0iKkHfmg&fp=qq#🇱🇻 Латвия
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@45.89.106.59:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=t4xZISnrz919gKHUIaM2vXmpxeo9YFkHIZ4SFjKzETo&fp=qq#🇮🇳 Индия
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@159.194.211.122:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=ghnvDO1BmayV77sODWUQBcvFEAQ_yCpv8wltCUeJZmQ&fp=qq#🇰🇿 Казахстан
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@158.160.254.32:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=shbalahB9PVpjZlAo5GochEo_fDhZ4WQTz4KiNmnVSw&fp=qq#🏳 LTE | Связь #1 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@158.160.254.32:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=shbalahB9PVpjZlAo5GochEo_fDhZ4WQTz4KiNmnVSw&fp=qq#🏳 LTE | Связь #2 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@158.160.254.32:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=shbalahB9PVpjZlAo5GochEo_fDhZ4WQTz4KiNmnVSw&fp=qq#🏳 LTE | Связь #3 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@158.160.254.32:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=shbalahB9PVpjZlAo5GochEo_fDhZ4WQTz4KiNmnVSw&fp=qq#🏳 LTE | Связь #4 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@51.250.19.217:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=RsjreVgkB-BJTWmMpZmc_W21vk4pINsrr4Pt6YqgGyE&fp=qq#🏳 LTE | Связь #5 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@51.250.19.217:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=RsjreVgkB-BJTWmMpZmc_W21vk4pINsrr4Pt6YqgGyE&fp=qq#🏳 LTE | Связь #6 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@51.250.19.217:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=RsjreVgkB-BJTWmMpZmc_W21vk4pINsrr4Pt6YqgGyE&fp=qq#🏳 LTE | Связь #7 | 0.0/5 ГБ · 24ч
+vless://1871d849-9d3f-4ab2-b624-9e973cb0e98b@51.250.19.217:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=RsjreVgkB-BJTWmMpZmc_W21vk4pINsrr4Pt6YqgGyE&fp=qq#🏳 LTE | Связь #8 | 0.0/5 ГБ · 24ч
+
+
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#хз:
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@lv89.mechvpn.online:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇫🇷 Париж/Франция | prot. tcp		(vladlink ✔) ws+tg(pc+mobile(hot))✔️ | фарпост ✔️ (mobile(apk) ❌ | youtube ✔
 
 vless://6038d5a7-3ed9-4298-a927-d7fb0a298522@89.149.240.41:8443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&extra=%7Bmode%3Dstream-up%2C%20xmux%3D%7BcMaxReuseTimes%3D96-192%2C%20maxConcurrency%3D8-16%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D400-600%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scStreamUpServerSecs%3D20-40%7D&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&fp=chrome&type=xhttp&sni=www.amd.com&sid=b94d6f23e8a10c75#🇳🇱 Netherland | Нидерланды (remiuc) (альянс ✔) ws+tg(pc)✔️ | фарпост ❌| youtube ✔
@@ -12,7 +41,7 @@ vless://SlikVPN_3413058@72.56.83.229:443?type=tcp&security=reality&fp=random&pbk
 #10-30 Mb Sec SlikVPN 
 
 
-
+vless://1@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#aksakruslan:
 vless://35d9d601-ed3e-402c-a062-878604de7bf4@news.rodosnews.ru:443?flow=xtls-rprx-vision&fp=random&pbk=spNh8KPw9EBt7Wr3NDVkp3EC10ShvYQEYCc-7OWjOCc&security=reality&sid=3c084982d2450d12&sni=sub.news.rodosnews.ru&spx=%2FZuUwe3iyoitLROg&type=tcp#🇫🇷 Париж/Франция | prot. TCP  (vladlink ✔️) #as01
 vless://8a485786-a702-4b3e-abe3-aa3e4e4e8e85@news.rodosnews.ru:443?host=news.rodosnews.ru&path=%2F56050%2Ftg1T1dVLkt&security=tls&type=ws	#🇫🇷 Париж/Франция | prot. WS		(vladlink ✔️) #as02
 vless://9328e367-c762-4b4b-bc20-4a00006462c1@news.rodosnews.ru:443?host=&mode=packet-up&path=%2FuXILZIIA21&security=tls&type=xhttp			#🇫🇷 Париж/Франция | prot. xhttp	(vladlink ✔️) #as03
