@@ -75,6 +75,15 @@ vless://8a485786-a702-4b3e-abe3-aa3e4e4e8e85@news.rodosnews.ru:443?encryption=no
 vless://9328e367-c762-4b4b-bc20-4a00006462c1@news.rodosnews.ru:443?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=packet-up&path=%2FuXILZIIA21&security=tls&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AB%F0%9F%87%B7%20xhttp-AksakRuslan_2
 trojan://xnsVDQkjL1@news.rodosnews.ru:443?authority=news.rodosnews.ru&security=tls&serviceName=%2F50724%2F3yv0VDdHoY&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20trojan-grpc-AksakRuslan_3
 
+#eclecticism
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&fp=qq&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&security=reality&sid=bcf62dab84bc24&sni=api.ok.ru&spx=%2FaecSHrmZ3MzRT2E&type=tcp#StormGuard-FI-7894817023
+
+#hell
+vless://0e8bcc6c-3def-4da2-ae0b-a18b8d85b699@158.160.90.212:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=2zAba7569dQmvrj7-dHd1iJ_POA2SpwDcbig4WBqaE8&sid=1d&fp=firefox#🇷🇺 RU | Обход
+vless://0e8bcc6c-3def-4da2-ae0b-a18b8d85b699@158.160.90.212:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=2zAba7569dQmvrj7-dHd1iJ_POA2SpwDcbig4WBqaE8&sid=b1240587&fp=chrome#🇩🇪 DE-FFM | Обход
+vless://0e8bcc6c-3def-4da2-ae0b-a18b8d85b699@158.160.90.212:2053?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=k_304DqAZItdWasWJpzPUBbf7h1y6OYwqWUHhulxXVo&sid=756a7ef6702c3a&fp=qq#🇺🇸 US-CLT | Обход
+vless://0e8bcc6c-3def-4da2-ae0b-a18b8d85b699@95.181.173.81:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=mTVjiSr_mFmumfTeaHIapgI8RIRLaLY5pQT2D7A53jY&sid=1f75c80883&fp=chrome#🇺🇸 US-CLT | Безлимит
+
 #mad
 vless://fd0d067b-a9e5-4fb0-b79f-efb7fb7e4042@88.216.214.144:8443?type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=63e8d2a07f5b19c4&fp=chrome&mode=auto&path=/api/v2/sync&extra={"mode":"stream-one","xmux":{"cMaxReuseTimes":"96-192","maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"400-600","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scStreamUpServerSecs":"20-40"}#🇸🇪  Sweden | (безлимит), до 15.06.2026
 vless://fd0d067b-a9e5-4fb0-b79f-efb7fb7e4042@89.149.240.51:8443?type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=07c5e3a8f612bd49&fp=chrome&mode=auto&path=/api/v2/sync&extra={"mode":"stream-one","xmux":{"cMaxReuseTimes":"96-192","maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"400-600","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scStreamUpServerSecs":"20-40"}#🇳🇱 Netherlands (YouTube) | (безлимит), до 15.06.2026
